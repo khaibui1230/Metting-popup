@@ -1,0 +1,2276 @@
+{
+    "prompts": [
+        {
+            "id": "p001",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Kỉ niệm đầu tiên khiến bạn rung động với người ấy là gì?",
+            "hint": "Kể lại hoàn cảnh và cảm xúc",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p002",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Điều nhỏ nhất người kia làm khiến bạn cảm thấy hạnh phúc?",
+            "hint": "Có thể là hành động rất đơn giản",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p003",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Bạn thích làm gì nhất khi ở cạnh người kia?",
+            "hint": "Nghĩ về những khoảnh khắc vui vẻ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p004",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Món ăn nào bạn muốn cùng người kia thử một lần?",
+            "hint": "Có thể là món lạ hoặc món yêu thích",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p005",
+            "type": "action",
+            "level": "icebreaker",
+            "content": "Mô tả người kia bằng 3 từ",
+            "hint": "Chọn những từ thể hiện cảm xúc thật",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p006",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Bạn nhớ nhất khoảnh khắc nào hai bạn cười nhiều nhất?",
+            "hint": "Kể lại câu chuyện",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p007",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Nơi nào bạn muốn cùng người kia đi chơi nhất?",
+            "hint": "Mô tả địa điểm và lý do",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p008",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Điều dễ thương nhất người kia từng làm là gì?",
+            "hint": "Một hành động khiến bạn nhớ mãi",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p009",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Bài hát nào khiến bạn nghĩ đến người kia?",
+            "hint": "Có thể hát một đoạn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p010",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Nếu có một ngày rảnh hoàn toàn, bạn muốn làm gì cùng nhau?",
+            "hint": "Tưởng tượng cả ngày từ sáng tới tối",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p011",
+            "type": "compliment",
+            "level": "icebreaker",
+            "content": "Nói một điều bạn thích ở cách người kia nói chuyện",
+            "hint": "Hãy nói trực tiếp với họ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p012",
+            "type": "fun",
+            "level": "icebreaker",
+            "content": "Nếu ở cạnh người kia bạn là một con vật, đó là con gì?",
+            "hint": "Giải thích lý do",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p013",
+            "type": "fun",
+            "level": "icebreaker",
+            "content": "Bạn muốn gọi người kia bằng biệt danh gì?",
+            "hint": "Chọn một nickname dễ thương",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p014",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Một bộ phim bạn muốn xem cùng người kia?",
+            "hint": "Giải thích vì sao",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p015",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Hoạt động ngoài trời nào bạn muốn thử cùng nhau?",
+            "hint": "Ví dụ: picnic, hiking, beach",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p016",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Khoảnh khắc gần đây khiến bạn vui khi ở cạnh người kia?",
+            "hint": "Chọn một kỷ niệm gần đây",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p017",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Nếu hai bạn mở một quán nhỏ, đó sẽ là quán gì?",
+            "hint": "Cafe, bánh ngọt, sách...",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p018",
+            "type": "compliment",
+            "level": "icebreaker",
+            "content": "Bạn thích điều gì nhất ở nụ cười của người kia?",
+            "hint": "Hãy nói trực tiếp với họ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p019",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Một món quà đơn giản bạn muốn tặng người kia?",
+            "hint": "Không cần đắt tiền",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p020",
+            "type": "fun",
+            "level": "icebreaker",
+            "content": "Nếu mối quan hệ có một màu sắc, đó là màu gì?",
+            "hint": "Giải thích ý nghĩa",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p021",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Bạn thích nghe người kia kể chuyện gì?",
+            "hint": "Một chủ đề thú vị",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p022",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Bạn nghĩ điều gì khiến hai bạn hợp nhau?",
+            "hint": "Nói về điểm chung",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p023",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Nếu đi picnic cùng nhau, bạn muốn mang theo món gì?",
+            "hint": "Nghĩ về đồ ăn và hoạt động",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p024",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Bạn thích cách người kia thể hiện sự quan tâm như thế nào?",
+            "hint": "Ví dụ: nhắn tin, hỏi thăm",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p025",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Một thói quen nhỏ của người kia khiến bạn thấy dễ thương?",
+            "hint": "Một chi tiết nhỏ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p026",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Hoạt động nào giúp hai người thư giãn cùng nhau?",
+            "hint": "Ví dụ: xem phim, nấu ăn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p027",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Một trải nghiệm mới bạn muốn thử cùng người kia?",
+            "hint": "Có thể là học điều gì đó",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p028",
+            "type": "question",
+            "level": "icebreaker",
+            "content": "Điều gì khiến bạn thấy thoải mái khi ở bên người kia?",
+            "hint": "Nói về cảm giác",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p029",
+            "type": "scenario",
+            "level": "icebreaker",
+            "content": "Một nơi bình yên bạn muốn đến cùng người kia?",
+            "hint": "Có thể là biển, núi, quán cafe",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p030",
+            "type": "action",
+            "level": "icebreaker",
+            "content": "Nói một điều đơn giản bạn muốn làm cho người kia hôm nay",
+            "hint": "Có thể là một hành động nhỏ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p031",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều gì khiến bạn cảm thấy được yêu thương nhất?",
+            "hint": "Hành động hay lời nói?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p032",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn thích thể hiện tình cảm bằng hành động hay lời nói?",
+            "hint": "Giải thích lý do",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p033",
+            "type": "question",
+            "level": "medium",
+            "content": "Một thói quen bạn muốn xây dựng cùng nhau?",
+            "hint": "Ví dụ: ăn tối cùng nhau",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p034",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều quan trọng nhất trong một mối quan hệ là gì?",
+            "hint": "Tin tưởng? tôn trọng?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p035",
+            "type": "scenario",
+            "level": "medium",
+            "content": "Bạn muốn dành nhiều thời gian hơn cho hoạt động nào cùng nhau?",
+            "hint": "Ví dụ: du lịch, thể thao",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p036",
+            "type": "question",
+            "level": "medium",
+            "content": "Khi bạn buồn, cách nào khiến bạn cảm thấy được an ủi?",
+            "hint": "Ví dụ: được lắng nghe, được ôm",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p037",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn thích cách nào để giải quyết mâu thuẫn?",
+            "hint": "Nói chuyện ngay hay bình tĩnh rồi nói?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p038",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều gì khiến bạn cảm thấy được tôn trọng trong mối quan hệ?",
+            "hint": "Ví dụ: lắng nghe, tôn trọng ý kiến",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p039",
+            "type": "question",
+            "level": "medium",
+            "content": "Một ước mơ nhỏ bạn muốn thực hiện cùng nhau?",
+            "hint": "Ví dụ: du lịch, học một kỹ năng",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p040",
+            "type": "scenario",
+            "level": "medium",
+            "content": "Buổi hẹn hò lý tưởng của bạn diễn ra như thế nào?",
+            "hint": "Mô tả từ đầu đến cuối",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p041",
+            "type": "question",
+            "level": "medium",
+            "content": "Một điều bạn muốn cải thiện trong cách giao tiếp với người kia?",
+            "hint": "Ví dụ: kiên nhẫn hơn",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p042",
+            "type": "question",
+            "level": "medium",
+            "content": "Khi bạn căng thẳng, bạn muốn người kia làm gì?",
+            "hint": "Hỏi thăm? cho bạn không gian?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p043",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều gì giúp bạn cảm thấy an toàn trong mối quan hệ?",
+            "hint": "Sự trung thực? sự ổn định?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p044",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn thích dành thời gian chất lượng cùng nhau như thế nào?",
+            "hint": "Ví dụ: trò chuyện, đi chơi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p045",
+            "type": "question",
+            "level": "medium",
+            "content": "Một điều bạn học được từ mối quan hệ này?",
+            "hint": "Có thể là bài học về bản thân",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p046",
+            "type": "question",
+            "level": "medium",
+            "content": "Theo bạn điều gì giúp tình yêu bền lâu?",
+            "hint": "Tin tưởng, giao tiếp...",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p047",
+            "type": "question",
+            "level": "medium",
+            "content": "Một thói quen của bạn mà bạn muốn thay đổi để tốt hơn cho mối quan hệ?",
+            "hint": "Ví dụ: nóng tính, ít chia sẻ",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p048",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn thích chia sẻ điều gì với người kia mỗi ngày?",
+            "hint": "Cảm xúc, câu chuyện, suy nghĩ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p049",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều gì khiến bạn tự hào về mối quan hệ này?",
+            "hint": "Một điều đặc biệt",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p050",
+            "type": "scenario",
+            "level": "medium",
+            "content": "Bạn thích cách nào để kỷ niệm các dịp đặc biệt?",
+            "hint": "Ví dụ: ăn tối, du lịch",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p051",
+            "type": "action",
+            "level": "medium",
+            "content": "Hãy nói một lời cảm ơn chân thành với người kia",
+            "hint": "Nói trực tiếp",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p052",
+            "type": "question",
+            "level": "medium",
+            "content": "Theo bạn hai người có điểm chung lớn nhất là gì?",
+            "hint": "Sở thích hoặc tính cách",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p053",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn muốn hai người phát triển điều gì cùng nhau?",
+            "hint": "Ví dụ: sức khỏe, kiến thức",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p054",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều gì khiến bạn cảm thấy hai người là một đội?",
+            "hint": "Một trải nghiệm cụ thể",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p055",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn thích cách nào để thể hiện sự quan tâm?",
+            "hint": "Lời nói, hành động, thời gian",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p056",
+            "type": "scenario",
+            "level": "medium",
+            "content": "Một kỷ niệm bạn muốn tạo thêm trong tương lai?",
+            "hint": "Một trải nghiệm đặc biệt",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p057",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn muốn xây dựng thói quen nào cùng nhau?",
+            "hint": "Ví dụ: tập thể dục",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p058",
+            "type": "question",
+            "level": "medium",
+            "content": "Điều gì giúp bạn cảm thấy được lắng nghe?",
+            "hint": "Cách người kia phản hồi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p059",
+            "type": "question",
+            "level": "medium",
+            "content": "Bạn muốn học điều gì từ người kia?",
+            "hint": "Một kỹ năng hoặc phẩm chất",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p060",
+            "type": "question",
+            "level": "medium",
+            "content": "Một mục tiêu nhỏ bạn muốn đạt được cùng nhau?",
+            "hint": "Ví dụ: hoàn thành một chuyến đi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p061",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì khiến bạn sợ nhất trong một mối quan hệ?",
+            "hint": "Chia sẻ thật lòng",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p062",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một điều bạn hiếm khi nói với người khác nhưng muốn chia sẻ?",
+            "hint": "Một suy nghĩ sâu sắc",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p063",
+            "type": "deep",
+            "level": "deep",
+            "content": "Bạn mong muốn mối quan hệ này phát triển như thế nào?",
+            "hint": "Nói về tương lai",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p064",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì khiến bạn cảm thấy thật sự được thấu hiểu?",
+            "hint": "Một hành động cụ thể",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p065",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một trải nghiệm trong quá khứ ảnh hưởng đến cách bạn yêu?",
+            "hint": "Một bài học",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p066",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì giúp xây dựng sự tin tưởng lâu dài?",
+            "hint": "Hành động cụ thể",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p067",
+            "type": "deep",
+            "level": "deep",
+            "content": "Khi bạn tổn thương, bạn muốn được đối xử như thế nào?",
+            "hint": "Chia sẻ nhu cầu của bạn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p068",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một điều bạn muốn người kia luôn nhớ về bạn?",
+            "hint": "Một giá trị hoặc phẩm chất",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p069",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì giúp hai người vượt qua khó khăn cùng nhau?",
+            "hint": "Ví dụ thực tế",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p070",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì khiến bạn cảm thấy thật sự được chấp nhận?",
+            "hint": "Một cảm xúc quan trọng",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p071",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một điều bạn muốn làm tốt hơn trong tình yêu?",
+            "hint": "Nói về bản thân",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p072",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì khiến bạn cảm thấy gắn bó sâu sắc với người kia?",
+            "hint": "Một khoảnh khắc hoặc hành động",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p073",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một giá trị bạn luôn muốn giữ trong mối quan hệ?",
+            "hint": "Ví dụ: trung thực",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p074",
+            "type": "deep",
+            "level": "deep",
+            "content": "Bạn muốn xây dựng tương lai như thế nào cùng nhau?",
+            "hint": "Mô tả tầm nhìn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p075",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì khiến bạn biết ơn nhất trong mối quan hệ này?",
+            "hint": "Một điều thật sự ý nghĩa",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p076",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một nỗi lo bạn muốn chia sẻ để người kia hiểu hơn?",
+            "hint": "Một điều bạn ít nói ra",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p077",
+            "type": "deep",
+            "level": "deep",
+            "content": "Điều gì khiến bạn cảm thấy bình yên khi ở cạnh người kia?",
+            "hint": "Một cảm giác đặc biệt",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p078",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một bài học lớn bạn học được từ tình yêu?",
+            "hint": "Một trải nghiệm",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p079",
+            "type": "deep",
+            "level": "deep",
+            "content": "Bạn hy vọng mối quan hệ này mang lại điều gì cho cả hai?",
+            "hint": "Nói về giá trị lâu dài",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p080",
+            "type": "deep",
+            "level": "deep",
+            "content": "Một điều bạn hy vọng hai người sẽ luôn giữ được?",
+            "hint": "Ví dụ: sự chân thành",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p081",
+            "type": "question",
+            "level": "spicy",
+            "content": "Điều gì ở cơ thể người kia khiến bạn cảm thấy bị thu hút nhất?",
+            "hint": "Hãy thành thật và chi tiết một chút",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p082",
+            "type": "action",
+            "level": "spicy",
+            "content": "Trao cho người kia một nụ hôn nồng cháy trong 10 giây",
+            "hint": "Tập trung vào cảm xúc",
+            "estimated_minutes": 1
+        },
+        {
+            "id": "p083",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Một địa điểm táo bạo mà bạn từng muốn thử 'chuyện ấy' cùng nhau?",
+            "hint": "Tưởng tượng và chia sẻ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p084",
+            "type": "question",
+            "level": "spicy",
+            "content": "Lời thì thầm nào vào tai khiến bạn cảm thấy hưng phấn nhất?",
+            "hint": "Chia sẻ về sở thích cá nhân",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p085",
+            "type": "action",
+            "level": "spicy",
+            "content": "Massage nhẹ nhàng vùng cổ và vai cho người kia trong 2 phút",
+            "hint": "Sử dụng đôi tay mềm mại",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p086",
+            "type": "question",
+            "level": "spicy",
+            "content": "Trang phục nào của người kia khiến bạn thấy họ quyến rũ nhất?",
+            "hint": "Nghĩ về những lần đi chơi hoặc ở nhà",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p087",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Nếu có một đêm hoàn toàn riêng tư, bạn muốn thử điều gì mới mẻ?",
+            "hint": "Đừng ngần ngại chia sẻ mong muốn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p088",
+            "type": "question",
+            "level": "spicy",
+            "content": "Động chạm nào của người kia khiến bạn 'tan chảy' ngay lập tức?",
+            "hint": "Nói về những điểm nhạy cảm",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p089",
+            "type": "action",
+            "level": "spicy",
+            "content": "Thì thầm một lời tỏ tình đầy quyến rũ vào tai đối phương",
+            "hint": "Sử dụng giọng nói trầm ấm",
+            "estimated_minutes": 1
+        },
+        {
+            "id": "p090",
+            "type": "question",
+            "level": "spicy",
+            "content": "Bạn thích không gian như thế nào cho một đêm lãng mạn?",
+            "hint": "Ánh sáng, mùi hương, âm nhạc...",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p091",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Bạn muốn cùng người kia tắm chung dưới ánh nến không?",
+            "hint": "Chia sẻ về trải nghiệm thư giãn và gần gũi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p092",
+            "type": "question",
+            "level": "spicy",
+            "content": "Một kỉ niệm nồng cháy nhất mà bạn không bao giờ quên?",
+            "hint": "Kể lại một chút chi tiết",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p093",
+            "type": "action",
+            "level": "spicy",
+            "content": "Tạo một tư thế chụp ảnh thật gợi cảm cùng nhau",
+            "hint": "Sử dụng điện thoại để ghi lại nếu muốn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p094",
+            "type": "question",
+            "level": "spicy",
+            "content": "Bạn thích được người kia chủ động hay mình là người chủ động?",
+            "hint": "Chia sẻ về thói quen",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p095",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Một trò chơi nhỏ trên giường mà bạn muốn thử?",
+            "hint": "Ví dụ: bịt mắt, trói tay nhẹ nhàng...",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p096",
+            "type": "question",
+            "level": "spicy",
+            "content": "Mùi hương nào trên cơ thể người kia khiến bạn say mê nhất?",
+            "hint": "Nước hoa hay mùi tự nhiên?",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p097",
+            "type": "action",
+            "level": "spicy",
+            "content": "Cắn nhẹ vào vành tai người kia một cách đầy tinh nghịch",
+            "hint": "Hãy thật nhẹ nhàng",
+            "estimated_minutes": 1
+        },
+        {
+            "id": "p098",
+            "type": "question",
+            "level": "spicy",
+            "content": "Điều gì ở đối phương khiến bạn thấy họ 'sexy' nhất khi đang làm việc?",
+            "hint": "Sự tập trung, ánh mắt...",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p099",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Bạn muốn thử cảm giác 'yêu' ở một nơi xa lạ không?",
+            "hint": "Ví dụ: khách sạn, resort, bãi biển vắng...",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p100",
+            "type": "action",
+            "level": "spicy",
+            "content": "Nói với người kia một khao khát thầm kín nhất của bạn ngay bây giờ",
+            "hint": "Đừng ngại ngùng, chỉ có hai người thôi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p101",
+            "type": "question",
+            "level": "spicy",
+            "content": "Tư thế yêu nào khiến bạn dễ đạt cực khoái nhất?",
+            "hint": "Chia sẻ thẳng thắn về cảm nhận cơ thể",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p102",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Bạn muốn thử cảm giác 'yêu' trước gương không?",
+            "hint": "Nói về sự kích thích thị giác",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p103",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng đá lạnh hoặc hơi ấm để trêu đùa một vùng nhạy cảm của người kia",
+            "hint": "Kích thích giác quan",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p104",
+            "type": "question",
+            "level": "spicy",
+            "content": "Bạn thích được 'yêu' vào buổi sáng hay buổi đêm?",
+            "hint": "Giải thích lý do vì sao",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p105",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Nếu chúng ta đóng vai (roleplay), bạn muốn mình là ai và đối phương là ai?",
+            "hint": "Tưởng tượng một kịch bản thú vị",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p106",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dành 5 phút để 'khám phá' cơ thể đối phương chỉ bằng môi",
+            "hint": "Đừng dùng tay",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p107",
+            "type": "question",
+            "level": "spicy",
+            "content": "Điểm nhạy cảm nhất trên cơ thể bạn mà người kia chưa biết?",
+            "hint": "Hướng dẫn họ cách chạm vào đó",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p108",
+            "type": "scenario",
+            "level": "spicy",
+            "content": "Bạn nghĩ sao về việc sử dụng đồ chơi người lớn (sex toys) cùng nhau?",
+            "hint": "Chia sẻ quan điểm cá nhân",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p109",
+            "type": "action",
+            "level": "spicy",
+            "content": "Cởi một món đồ trên người đối phương bằng miệng",
+            "hint": "Hãy thật khéo léo",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p111",
+            "type": "career",
+            "level": "medium",
+            "content": "Áp lực lớn nhất bạn đang gặp phải trong công việc là gì?",
+            "hint": "Hãy chia sẻ để cùng tìm cách giải tỏa",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p112",
+            "type": "career",
+            "level": "medium",
+            "content": "Nếu được chọn lại, bạn vẫn sẽ chọn công việc hiện tại chứ?",
+            "hint": "Nói về đam mê và thực tế",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p113",
+            "type": "friendship",
+            "level": "icebreaker",
+            "content": "Điều gì ở một người bạn khiến bạn trân trọng nhất?",
+            "hint": "Sự trung thành, hài hước, hay thấu hiểu?",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p114",
+            "type": "friendship",
+            "level": "icebreaker",
+            "content": "Kỷ niệm điên rồ nhất bạn từng có với bạn bè là gì?",
+            "hint": "Kể lại một chuyến đi hoặc một trò đùa",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p115",
+            "type": "love",
+            "level": "deep",
+            "content": "Bạn thấy mình đã thay đổi thế nào kể từ khi chúng ta yêu nhau?",
+            "hint": "Nghĩ về những thay đổi tích cực",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p116",
+            "type": "love",
+            "level": "deep",
+            "content": "Một nỗi sợ về tương lai của hai đứa mà bạn chưa dám nói?",
+            "hint": "Chia sẻ để cùng nhau xây dựng sự an tâm",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p117",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn muốn được 'yêu' ở một không gian ngoài trời kín đáo không?",
+            "hint": "Ví dụ: ban công, sân thượng, hay trong xe...",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p118",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một món đồ chơi hoặc phụ kiện nào bạn muốn thử trong 'chuyện ấy'?",
+            "hint": "Đừng ngại chia sẻ sự tò mò của mình",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p119",
+            "type": "career",
+            "level": "deep",
+            "content": "Mục tiêu 5 năm tới trong sự nghiệp của bạn là gì?",
+            "hint": "Bạn muốn đạt được vị trí hay kỹ năng gì?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p120",
+            "type": "friendship",
+            "level": "medium",
+            "content": "Làm sao để giữ gìn một tình bạn lâu dài theo ý bạn?",
+            "hint": "Sự giao tiếp thường xuyên hay sự hỗ trợ khi cần?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p121",
+            "type": "career",
+            "level": "medium",
+            "content": "Bạn cảm thấy thế nào về sự cân bằng giữa công việc và cuộc sống hiện tại?",
+            "hint": "Nói về thời gian dành cho bản thân và công việc",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p122",
+            "type": "love",
+            "level": "icebreaker",
+            "content": "Điều gì ở đối phương khiến bạn cảm thấy bị thu hút ngay từ cái nhìn đầu tiên?",
+            "hint": "Có thể là ngoại hình hoặc một cử chỉ nhỏ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p123",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn nghĩ sao về việc thử một vai diễn mới mẻ trong chuyện ấy?",
+            "hint": "Chia sẻ về mong muốn roleplay",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p124",
+            "type": "career",
+            "level": "deep",
+            "content": "Thất bại lớn nhất trong sự nghiệp đã dạy bạn điều gì?",
+            "hint": "Một bài học kinh nghiệm quý giá",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p125",
+            "type": "love",
+            "level": "deep",
+            "content": "Bạn định nghĩa thế nào là một tình yêu đích thực?",
+            "hint": "Nói về quan điểm cá nhân sâu sắc",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p126",
+            "type": "career",
+            "level": "medium",
+            "content": "Một người đồng nghiệp nào bạn thấy đáng ngưỡng mộ nhất?",
+            "hint": "Nghĩ về những phẩm chất họ có",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p127",
+            "type": "love",
+            "level": "icebreaker",
+            "content": "Điều gì ở đối phương khiến bạn cảm thấy yên tâm nhất khi đi bên cạnh?",
+            "hint": "Cảm giác an toàn đến từ đâu?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p128",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn thích được 'yêu' trong im lặng hay có âm nhạc/âm thanh kích thích?",
+            "hint": "Nói về sở thích giác quan của bạn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p129",
+            "type": "career",
+            "level": "deep",
+            "content": "Nếu không vì tiền, bạn thực sự muốn làm gì nhất trên đời?",
+            "hint": "Ước mơ sâu thẳm nhất của bạn là gì?",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p130",
+            "type": "love",
+            "level": "medium",
+            "content": "Lần cuối cùng bạn cảm thấy thực sự tự hào về đối phương là khi nào?",
+            "hint": "Một hành động hoặc thành tựu của họ",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p131",
+            "type": "career",
+            "level": "icebreaker",
+            "content": "Đồng nghiệp nào khiến bạn thấy vui vẻ nhất mỗi khi đi làm?",
+            "hint": "Người truyền năng lượng tích cực cho bạn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p132",
+            "type": "career",
+            "level": "medium",
+            "content": "Kỹ năng mới nào bạn muốn học nhất để phục vụ công việc?",
+            "hint": "Ngoại ngữ, lập trình, hay kỹ năng mềm?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p133",
+            "type": "career",
+            "level": "deep",
+            "content": "Nếu công việc hiện tại biến mất, bạn sẽ làm gì đầu tiên?",
+            "hint": "Nói về sự chuẩn bị và khả năng thích nghi",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p134",
+            "type": "love",
+            "level": "icebreaker",
+            "content": "Một biệt danh 'bí mật' bạn muốn đặt cho người kia ngay bây giờ?",
+            "hint": "Càng kỳ lạ càng vui",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p135",
+            "type": "love",
+            "level": "medium",
+            "content": "Hành động nào của người kia khiến bạn thấy họ quyến rũ nhất khi đang ở nhà?",
+            "hint": "Lúc nấu ăn, lúc đọc sách, hay lúc đang tập trung?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p136",
+            "type": "love",
+            "level": "deep",
+            "content": "Nếu chúng ta có 1 năm để đi du lịch khắp thế giới, bạn muốn đi đâu nhất?",
+            "hint": "Lên danh sách 3 địa điểm mơ ước",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p137",
+            "type": "friendship",
+            "level": "icebreaker",
+            "content": "Bạn thích kiểu người bạn như thế nào: 'Cùng vui' hay 'Cùng buồn'?",
+            "hint": "Giải thích vì sao",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p138",
+            "type": "friendship",
+            "level": "medium",
+            "content": "Bạn đã bao giờ cảm thấy ghen tị với thành công của bạn bè chưa?",
+            "hint": "Thành thật về cảm xúc con người",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p139",
+            "type": "friendship",
+            "level": "deep",
+            "content": "Điều gì có thể làm chấm dứt một tình bạn lâu năm của bạn?",
+            "hint": "Sự phản bội, sự im lặng, hay sự khác biệt về quan điểm?",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p140",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một bộ phim hoặc cuốn sách nào khiến bạn thấy 'nóng người' nhất?",
+            "hint": "Chia sẻ về nguồn cảm hứng của bạn",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p141",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn thích được 'yêu' trong ánh sáng rực rỡ hay bóng tối huyền bí?",
+            "hint": "Nói về sở thích thị giác",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p142",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn muốn thử cảm giác bị 'bịt mắt' khi đang yêu không?",
+            "hint": "Tập trung vào cảm nhận xúc giác",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p143",
+            "type": "solo",
+            "level": "solo",
+            "content": "Điều gì ở bản thân mà bạn vẫn chưa thể chấp nhận hoàn toàn?",
+            "hint": "Nghĩ về những khuyết điểm và sự bao dung",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p144",
+            "type": "solo",
+            "level": "solo",
+            "content": "Nếu hôm nay là ngày cuối cùng, bạn sẽ hối tiếc điều gì nhất?",
+            "hint": "Nghĩ về những việc chưa làm",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p145",
+            "type": "solo",
+            "level": "solo",
+            "content": "Bạn thấy mình của hiện tại so với 1 năm trước đã trưởng thành thế nào?",
+            "hint": "Liệt kê 2 thay đổi lớn nhất",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p146",
+            "type": "career",
+            "level": "medium",
+            "content": "Bạn muốn được nhớ đến như một người đồng nghiệp như thế nào?",
+            "hint": "Giỏi chuyên môn, nhiệt tình, hay đáng tin cậy?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p147",
+            "type": "love",
+            "level": "medium",
+            "content": "Nếu có thể quay lại ngày đầu tiên gặp nhau, bạn muốn thay đổi điều gì?",
+            "hint": "Trang phục, lời nói, hay địa điểm?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p148",
+            "type": "friendship",
+            "level": "icebreaker",
+            "content": "Bạn thích làm bạn với người hướng nội hay hướng ngoại hơn?",
+            "hint": "Tại sao lại có sự ưu tiên đó?",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p149",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một nụ hôn ở vị trí nào khiến bạn 'đầu hàng' nhanh nhất?",
+            "hint": "Cổ, tai, hay xương quai xanh?",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p150",
+            "type": "solo",
+            "level": "solo",
+            "content": "Một giấc mơ kỳ lạ nhất mà bạn từng có và vẫn nhớ đến giờ?",
+            "hint": "Mô tả không gian và cảm xúc trong mơ",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p151",
+            "type": "action",
+            "level": "spicy",
+            "content": "Thì thầm một điều cực kỳ 'đen tối' bạn muốn làm với đối phương vào tai họ",
+            "hint": "Càng cụ thể càng kích thích",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p152",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương vẽ một hình bất kỳ lên vùng nhạy cảm của bạn",
+            "hint": "Sử dụng ngón tay hoặc một thỏi son",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p153",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Tư thế yêu nào khiến bạn cảm thấy thăng hoa nhất?",
+            "hint": "Mô tả cảm giác hoặc lý do bạn thích nó",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p154",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hôn khắp cơ thể đối phương nhưng không được chạm vào 'vùng cấm'",
+            "hint": "Thử thách sự kiên nhẫn của cả hai",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p155",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn thích kiểu 'mạnh bạo' hay 'nhẹ nhàng, tình cảm' hơn?",
+            "hint": "Nói về sở thích cường độ của bạn",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p156",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng đá lạnh chạm vào những điểm nhạy cảm trên người đối phương",
+            "hint": "Trải nghiệm cảm giác nóng lạnh đan xen",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p157",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một nơi công cộng nào bạn từng muốn được 'thử'?",
+            "hint": "Rạp phim, công viên, hay cầu thang bộ?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p158",
+            "type": "action",
+            "level": "spicy",
+            "content": "Mát-xa cho đối phương bằng tinh dầu trong 5 phút",
+            "hint": "Tập trung vào những vùng họ hay mỏi",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p159",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn muốn được đối phương thống trị (dominant) hay phục tùng (submissive)?",
+            "hint": "Chia sẻ về mong muốn thầm kín này",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p160",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thử một kiểu 'yêu' bằng miệng mà bạn chưa từng làm trước đây",
+            "hint": "Học hỏi và khám phá cùng nhau",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "p161",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Món đồ lót nào của đối phương khiến bạn bị kích thích nhất?",
+            "hint": "Màu sắc, chất liệu, hay kiểu dáng?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p162",
+            "type": "action",
+            "level": "spicy",
+            "content": "Nhập vai (Roleplay): Hãy đóng giả là một người lạ gặp nhau trong quán bar",
+            "hint": "Bắt đầu cuộc trò chuyện đầy ẩn ý",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "p163",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một âm thanh nào từ đối phương khiến bạn cảm thấy hưng phấn nhất?",
+            "hint": "Tiếng thở, tiếng rên, hay những lời thì thầm?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p164",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương trói tay bạn lại bằng một chiếc cà vạt hoặc khăn quàng",
+            "hint": "Trao quyền kiểm soát cho họ",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p165",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn có muốn quay lại video những khoảnh khắc nồng cháy của hai đứa không?",
+            "hint": "Bàn về sự tin tưởng và quyền riêng tư",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p166",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hôn sâu đối phương trong 2 phút liên tục",
+            "hint": "Cảm nhận hơi thở và sự kết nối",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p167",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một fetish (sở thích đặc biệt) nào bạn muốn đối phương thực hiện cho mình?",
+            "hint": "Đừng ngại chia sẻ, đây là không gian an toàn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p168",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương điều khiển bạn làm một việc gì đó trong 10 phút",
+            "hint": "Bất cứ việc gì họ muốn (trong giới hạn cho phép)",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p169",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Điều gì khiến bạn cảm thấy tự tin nhất khi đang trên giường?",
+            "hint": "Cơ thể, kỹ năng, hay sự nồng nhiệt?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p170",
+            "type": "action",
+            "level": "spicy",
+            "content": "Lột đồ đối phương thật chậm rãi chỉ bằng một tay",
+            "hint": "Tạo ra sự chờ đợi đầy kịch tính",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p171",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn thích được đối phương dùng miệng 'chăm sóc' vùng nào nhất?",
+            "hint": "Mô tả cảm giác mà bạn mong đợi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p172",
+            "type": "action",
+            "level": "spicy",
+            "content": "Bịt mắt đối phương và dùng một vật gì đó mềm mại (lông vũ, lụa) chạm khắp người họ",
+            "hint": "Khiến họ phải đoán xem bạn đang dùng gì",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p173",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn đã bao giờ mơ về một cuộc 'yêu' tay ba chưa?",
+            "hint": "Chia sẻ về sự tò mò hoặc quan điểm của bạn",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p174",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng kem tươi hoặc sô-cô-la lên một vùng cơ thể và để đối phương 'dọn dẹp'",
+            "hint": "Một trải nghiệm ngọt ngào và đầy kích thích",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "p175",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Khoảnh khắc nào trong lúc 'yêu' khiến bạn cảm thấy yêu đối phương nhất?",
+            "hint": "Ánh mắt, nụ hôn hay sự hòa quyện?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p176",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thử tư thế '69' trong vòng ít nhất 3 phút",
+            "hint": "Cùng nhau tận hưởng sự thăng hoa",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p177",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn có thích việc được đối phương nói những lời 'hư hỏng' (dirty talk) khi đang làm chuyện ấy không?",
+            "hint": "Điều gì bạn muốn nghe nhất?",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p178",
+            "type": "action",
+            "level": "spicy",
+            "content": "Thực hiện một điệu nhảy quyến rũ (lap dance) cho đối phương xem",
+            "hint": "Sử dụng âm nhạc để tăng thêm không khí",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p179",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một món đồ chơi người lớn nào bạn cực kỳ muốn mua thêm cho bộ sưu tập?",
+            "hint": "Cùng nhau tìm kiếm và lựa chọn",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p180",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương khám phá cơ thể bạn bằng đá lạnh và nước ấm luân phiên",
+            "hint": "Sự tương phản nhiệt độ sẽ tạo ra cảm giác mới lạ",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "p181",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn thích được 'yêu' vào buổi sáng sớm hay đêm muộn?",
+            "hint": "Lý do đằng sau sở thích thời điểm của bạn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p182",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thử quan hệ ở một nơi không phải là giường (ghế sofa, sàn nhà, bàn ăn...)",
+            "hint": "Thay đổi không gian để làm mới cảm xúc",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p183",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn thấy bộ phận nào trên cơ thể mình quyến rũ nhất đối với đối phương?",
+            "hint": "Và bạn thích họ chạm vào đó như thế nào?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p184",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng miệng cởi quần lót của đối phương",
+            "hint": "Chậm rãi và đầy nghệ thuật",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p185",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn muốn được thực hiện 'fantasies' (ảo tưởng) nào nhất ngay lúc này?",
+            "hint": "Đừng ngần ngại mô tả nó thật chi tiết",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p186",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương chụp 3 tấm ảnh 'nóng bỏng' của bạn (nhớ xóa sau đó nếu muốn)",
+            "hint": "Tự tin khoe vẻ đẹp hình thể",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p187",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Cảm giác khi 'lên đỉnh' cùng nhau đối với bạn có ý nghĩa như thế nào?",
+            "hint": "Nói về sự gắn kết tâm hồn và thể xác",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p188",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hôn lên đùi trong của đối phương và dừng lại ở sát 'vùng nhạy cảm'",
+            "hint": "Kích thích sự khao khát của họ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p189",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn có thích việc được đối phương nhìn thẳng vào mắt khi đang thăng hoa?",
+            "hint": "Cảm nhận sự chân thành và cuồng nhiệt",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p190",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương buộc lỏng hai tay bạn ra sau lưng",
+            "hint": "Trở nên hoàn toàn phục tùng trong chốc lát",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p191",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Tốc độ và nhịp điệu như thế nào khiến bạn dễ dàng đạt được khoái cảm nhất?",
+            "hint": "Nhanh và mạnh hay chậm và sâu?",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p192",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng lưỡi vẽ những vòng tròn xung quanh 'nhũ hoa' của đối phương",
+            "hint": "Khiến họ phải phát ra những tiếng rên rỉ",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p193",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Một kỷ niệm về lần 'yêu' vụng trộm hoặc mạo hiểm nhất của bạn?",
+            "hint": "Kể lại cảm giác lo lắng xen lẫn hưng phấn",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p194",
+            "type": "action",
+            "level": "spicy",
+            "content": "Cùng nhau xem một đoạn phim ngắn 'người lớn' và bắt chước theo một hành động trong đó",
+            "hint": "Tìm kiếm nguồn cảm hứng mới",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p195",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn muốn được đối phương khen ngợi điều gì nhất về kỹ năng giường chiếu của mình?",
+            "hint": "Sự tự tin đến từ những lời khích lệ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p196",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng ngón tay mơn trớn 'vùng nhạy cảm' của đối phương qua lớp quần áo",
+            "hint": "Tăng thêm sự chờ đợi",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p197",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn có thích cảm giác được đối phương cắn nhẹ vào cổ hay tai không?",
+            "hint": "Sự đau nhẹ có thể là một chất xúc tác mạnh mẽ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p198",
+            "type": "action",
+            "level": "spicy",
+            "content": "Tắm chung cùng nhau dưới vòi sen và giúp đối phương kỳ cọ khắp người",
+            "hint": "Sự đụng chạm dưới làn nước ấm áp",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p199",
+            "type": "sex",
+            "level": "spicy",
+            "content": "Bạn muốn 'hiệp 2' diễn ra như thế nào sau khi đã kết thúc hiệp đầu?",
+            "hint": "Nghỉ ngơi và âu yếm hay tiếp tục cuồng nhiệt?",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p200",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thì thầm vào tai đối phương những điều bạn sẽ làm với họ tối nay",
+            "hint": "Hứa hẹn một đêm khó quên",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "d001",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau thực hiện một nụ hôn kiểu Pháp nồng cháy trong 1 phút",
+            "hint": "Bắt đầu một cách chậm rãi",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "d002",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Một người nằm xuống và người kia thực hiện động tác hít đất phía trên nhưng không được chạm vào người dưới",
+            "hint": "Cảm nhận hơi thở và sức nóng của nhau",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "d003",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau nhảy một điệu nhảy chậm và quyến rũ mà không mặc gì (hoặc chỉ mặc đồ lót)",
+            "hint": "Sử dụng âm nhạc lãng mạn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d004",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai cùng nhau ăn một miếng trái cây (ví dụ: nho hoặc dâu tây) bằng cách truyền từ miệng người này sang miệng người kia",
+            "hint": "Hãy thật khéo léo và nồng nhiệt",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "d005",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau vào phòng tắm và thực hiện màn 'mơn trớn' dưới vòi sen",
+            "hint": "Sự kết hợp giữa nước và hơi ấm cơ thể",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d006",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy thử tư thế 'xe bò' (Wheelbarrow) trong 2 phút",
+            "hint": "Thử thách sức bền và sự phối hợp",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "d007",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau cởi đồ cho đối phương bằng miệng, luân phiên nhau",
+            "hint": "Càng chậm càng kích thích",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d008",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Một người ngồi lên đùi người kia và cả hai hôn nhau thật sâu trong tư thế này",
+            "hint": "Cảm nhận sự gần gũi tối đa",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "d009",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau thực hiện màn 'yêu' bằng miệng cho nhau đồng thời (69)",
+            "hint": "Tập trung vào cảm nhận của cả hai",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "d010",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau dùng đá lạnh mơn trớn lên cơ thể của đối phương",
+            "hint": "Sự tương phản nhiệt độ cực kỳ kích thích",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "d011",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau thực hiện màn 'nhập vai' (roleplay) bác sĩ và bệnh nhân",
+            "hint": "Bắt đầu bằng một cuộc 'khám bệnh' nồng cháy",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d012",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau bịt mắt và để người kia dẫn dắt trong 5 phút",
+            "hint": "Hoàn toàn tin tưởng vào đối phương",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d013",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau thực hiện màn 'mát-xa' bằng toàn bộ cơ thể (body-to-body massage)",
+            "hint": "Sử dụng tinh dầu để tăng sự mượt mà",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "d014",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau thực hiện thử thách 'im lặng' trong khi đang 'yêu'",
+            "hint": "Chỉ được dùng ánh mắt và cử chỉ",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d015",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau thử một tư thế 'yêu' mới mà cả hai chưa từng làm",
+            "hint": "Khám phá giới hạn mới của bản thân",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d016",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau thực hiện màn 'kích thích' bằng tay cho đối phương",
+            "hint": "Nhìn thẳng vào mắt nhau khi thực hiện",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "d017",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau dùng dây ruy-băng trói tay đối phương lại và hôn nhau",
+            "hint": "Sự thống trị nhẹ nhàng",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d018",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau thực hiện thử thách 'chờ đợi': kích thích nhưng không được 'về đích' trong 15 phút",
+            "hint": "Tăng cường sự khao khát tối đa",
+            "estimated_minutes": 15
+        },
+        {
+            "id": "d019",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hai bạn hãy cùng nhau thực hiện màn 'yêu' trước gương",
+            "hint": "Quan sát sự cuồng nhiệt của cả hai",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d020",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cả hai hãy cùng nhau kết thúc bằng một nụ hôn sâu và lời thì thầm 'Anh/Em yêu anh/em'",
+            "hint": "Sự gắn kết ngọt ngào sau cuộc vui",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "d021",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Một người quỳ xuống và người kia dùng chân mơn trớn 'vùng nhạy cảm' của họ",
+            "hint": "Sự phục tùng đầy quyến rũ",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d022",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thực hiện thử thách 'spanking': Một người nằm sấp và người kia vỗ nhẹ vào mông họ cho đến khi hơi đỏ lên",
+            "hint": "Cảm nhận sự hưng phấn từ những cái vỗ",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d023",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hãy thử tư thế 'đứng' khi đang 'yêu' ở một góc tường",
+            "hint": "Sự mạnh bạo và dồn dập",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "d024",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Dùng nến (loại chuyên dụng hoặc nhiệt độ thấp) nhỏ lên cơ thể đối phương",
+            "hint": "Trải nghiệm cảm giác nóng bỏng và kích thích",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "d025",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'edging': Kích thích nhau đến sát giới hạn rồi dừng lại, lặp lại 3 lần",
+            "hint": "Khiến đối phương phải cầu xin sự giải tỏa",
+            "estimated_minutes": 15
+        },
+        {
+            "id": "d026",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Dùng dây thừng hoặc khăn tắm trói chặt hai tay đối phương lên đầu giường",
+            "hint": "Hoàn toàn kiểm soát họ",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d027",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Hãy để đối phương đeo 'vòng cổ' hoặc ruy băng và bạn dắt họ đi quanh phòng",
+            "hint": "Nhập vai chủ nhân và thú cưng đầy kích thích",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d028",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Cùng nhau thực hiện màn 'oral sex' nhưng một người phải bịt mắt hoàn toàn",
+            "hint": "Tập trung vào cảm nhận xúc giác và âm thanh",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "d029",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thực hiện tư thế 'Doggy' nhưng người ở trên phải nắm tóc người dưới thật nhẹ nhàng và kéo về sau",
+            "hint": "Sự thống trị và hoang dại",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "d030",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Dirty Talk' liên tục: Cả hai phải mô tả thật chi tiết những gì đang làm và cảm nhận",
+            "hint": "Kích thích bằng ngôn từ trần trụi nhất",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p201",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy liếm và mút các ngón chân của đối phương một cách chậm rãi",
+            "hint": "Khám phá một vùng nhạy cảm khác",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p202",
+            "type": "action",
+            "level": "spicy",
+            "content": "Cắn nhẹ vào mông đối phương và để lại vết hằn nhỏ",
+            "hint": "Đánh dấu lãnh thổ đầy táo bạo",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p203",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng lưỡi vẽ một đường từ rốn xuống đến tận 'vùng cấm' nhưng không được chạm vào đó",
+            "hint": "Khiến đối phương phát điên vì chờ đợi",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p204",
+            "type": "action",
+            "level": "spicy",
+            "content": "Đổ một chút rượu hoặc đồ uống lên cơ thể đối phương và liếm sạch nó",
+            "hint": "Hương vị nồng nàn và kích thích",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p205",
+            "type": "action",
+            "level": "spicy",
+            "content": "Thực hiện màn 'cunnilingus' hoặc 'fellatio' trong khi đối phương đang nói chuyện điện thoại (giả vờ)",
+            "hint": "Thử thách giữ bình tĩnh trong hưng phấn",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "p206",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng một chiếc kẹp (hoặc ngón tay) kẹp nhẹ vào đầu ngực đối phương",
+            "hint": "Cảm giác đau nhẹ đan xen sướng",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p207",
+            "type": "action",
+            "level": "spicy",
+            "content": "Bắt đối phương phải quỳ xuống và 'xin phép' trước khi bạn chạm vào họ",
+            "hint": "Thiết lập thứ bậc đầy kịch tính",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p208",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thử 'yêu' ở tư thế mà đối phương hoàn toàn không thể cử động được (do bạn đè lên hoặc trói)",
+            "hint": "Sự bất lực đầy khoái cảm",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "p209",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng một viên đá lạnh ngậm trong miệng rồi thực hiện 'oral sex'",
+            "hint": "Cảm giác lạnh buốt đầy mới lạ",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p210",
+            "type": "action",
+            "level": "spicy",
+            "content": "Thì thầm những lời khao khát trần trụi nhất vào tai đối phương khi đang 'yêu' dồn dập",
+            "hint": "Kích thích thính giác tối đa",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "d031",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Frozen & Hot': Một người dùng đá lạnh, người kia dùng hơi thở nóng mơn trớn cùng lúc lên cơ thể đối phương",
+            "hint": "Sự tương phản nhiệt độ cực độ",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "d032",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Blindfolded Surprise': Cả hai cùng bịt mắt, chỉ dùng xúc giác và khứu giác để kích thích nhau",
+            "hint": "Tăng cường độ nhạy bén của các giác quan còn lại",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "d033",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Power Switch': Thay đổi vai trò thống trị/phục tùng liên tục sau mỗi 2 phút",
+            "hint": "Trải nghiệm cả hai trạng thái kiểm soát",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d034",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Public Fantasy': Cùng nhau mô tả một kịch bản 'yêu' ở nơi công cộng và thực hiện nó ngay trong phòng",
+            "hint": "Kích thích trí tưởng tượng bay xa",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "d035",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Intense Restraint': Trói cả tay và chân đối phương, chỉ dùng miệng để kích thích họ trong 5 phút",
+            "hint": "Khiến họ hoàn toàn bất lực và khao khát",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d036",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Mirror Play': Một người tự kích thích mình trước gương trong khi người kia quan sát và ra lệnh",
+            "hint": "Sự kích thích từ thị giác và quyền lực",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "d037",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Forbidden Sounds': Cố gắng giữ im lặng tuyệt đối khi đối phương đang dùng mọi cách để khiến bạn rên rỉ",
+            "hint": "Sự kiềm chế mãnh liệt",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d038",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Deep Connection': Thực hiện màn 'yêu' cực chậm, tập trung vào từng hơi thở và nhịp tim đồng điệu",
+            "hint": "Sự gắn kết sâu sắc nhất về thể xác",
+            "estimated_minutes": 12
+        },
+        {
+            "id": "d039",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Body Writing': Dùng lưỡi hoặc son môi viết tên mình lên những vùng nhạy cảm nhất của đối phương",
+            "hint": "Đánh dấu chủ quyền đầy quyến rũ",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "d040",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Oral Marathon': Cả hai luân phiên thực hiện 'oral sex' cho nhau, mỗi hiệp 5 phút không nghỉ",
+            "hint": "Sự bền bỉ và nồng nhiệt",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p211",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng răng kéo nhẹ lớp áo lót của đối phương ra và hôn nồng cháy vào vùng da bên dưới",
+            "hint": "Sự hoang dại và khao khát",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p212",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương 'phạt' bạn bằng 10 cái vỗ mông (spanking) thật kêu",
+            "hint": "Cảm nhận sự kích thích từ những cái vỗ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p213",
+            "type": "action",
+            "level": "spicy",
+            "content": "Liếm và mút tai đối phương thật nồng nhiệt, thì thầm những lời 'đen tối' nhất",
+            "hint": "Kích thích thính giác và xúc giác",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p214",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng một chiếc khăn lụa bịt mắt đối phương và dắt họ đi quanh phòng trong trạng thái khỏa thân",
+            "hint": "Tăng cảm giác hồi hộp và mong đợi",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p215",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thực hiện màn 'oral sex' khi đối phương đang đứng và bạn quỳ dưới chân họ",
+            "hint": "Sự phục tùng đầy quyền lực",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "p216",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng móng tay cào nhẹ lên lưng hoặc đùi đối phương khi đang thăng hoa",
+            "hint": "Biểu lộ sự cuồng nhiệt và hưng phấn",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p217",
+            "type": "action",
+            "level": "spicy",
+            "content": "Yêu cầu đối phương phải 'cầu xin' thật chân thành trước khi bạn cho phép họ đạt đỉnh",
+            "hint": "Sự thống trị tuyệt đối",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p218",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng lưỡi khám phá từng kẽ ngón tay và ngón chân của đối phương một cách gợi cảm",
+            "hint": "Một fetish tinh tế và kích thích",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p219",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thử kịch bản 'bắt cóc' giả định, nơi bạn hoàn toàn kiểm soát và làm mọi điều với đối phương",
+            "hint": "Nhập vai kịch tính và hoang dại",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p220",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng đá lạnh mơn trớn từ cổ xuống đến tận 'vùng cấm' của đối phương",
+            "hint": "Cảm giác lạnh buốt đầy kích thích",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "d041",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Human Canvas': Dùng kem đánh răng hoặc mật ong vẽ lên người đối phương và liếm sạch",
+            "hint": "Một trải nghiệm vừa dính dáp vừa kích thích",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "d042",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Water Bed': Đổ một chút nước ấm lên bụng đối phương và dùng miệng hớp hết chỗ nước đó",
+            "hint": "Cảm giác nước ấm lan tỏa trên da",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d043",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Shadow Play': Tắt hết đèn, chỉ dùng một chiếc đèn pin nhỏ để chiếu vào những vùng nhạy cảm khi đang 'yêu'",
+            "hint": "Sự tập trung thị giác đầy kịch tính",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "d044",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Vibrating Connection': Sử dụng đồ chơi rung và cả hai cùng chạm vào nó khi đang hôn nhau",
+            "hint": "Sự rung động lan tỏa khắp cơ thể",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "d045",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Slow Motion Strip': Cả hai cùng cởi đồ cho nhau nhưng mỗi động tác phải kéo dài ít nhất 30 giây",
+            "hint": "Tăng sự chờ đợi và khao khát",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "d046",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Breath Control': Một người thổi hơi nóng, người kia thổi hơi lạnh vào tai đối phương luân phiên",
+            "hint": "Kích thích thính giác và xúc giác",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "d047",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Bound Together': Dùng một chiếc khăn dài buộc hai người lại sát nhau và cố gắng di chuyển quanh phòng",
+            "hint": "Sự đụng chạm liên tục không thể rời",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "d048",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Temperature Surprise': Ngậm một ngụm nước ấm rồi hôn sâu, sau đó đổi sang nước lạnh",
+            "hint": "Sự thay đổi nhiệt độ đột ngột trong khoang miệng",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "d049",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Naked Chef': Cùng nhau chuẩn bị một món ăn nhẹ trong trạng thái hoàn toàn khỏa thân",
+            "hint": "Sự tự nhiên và quyến rũ trong bếp",
+            "estimated_minutes": 15
+        },
+        {
+            "id": "d050",
+            "type": "action",
+            "level": "spicy-duo",
+            "content": "Thử thách 'Ultimate Surrender': Một người nằm yên không được cử động, để người kia làm bất cứ điều gì họ muốn trong 10 phút",
+            "hint": "Sự tận hưởng hoàn toàn và phục tùng",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "p221",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy dùng lưỡi liếm dọc theo xương sống của đối phương từ cổ xuống tận thắt lưng",
+            "hint": "Cảm giác rùng mình đầy hưng phấn",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p222",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thì thầm vào tai đối phương một điều bạn chưa từng dám nói về sở thích 'giường chiếu' của mình",
+            "hint": "Sự thành thật đầy kích thích",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p223",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng một viên đá lạnh xoa lên đầu ngực của mình rồi áp sát vào người đối phương",
+            "hint": "Truyền hơi lạnh đầy bất ngờ",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p224",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy cởi một món đồ trên người đối phương bằng cách chỉ dùng răng",
+            "hint": "Sự kiên nhẫn và hoang dại",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p225",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng tay mơn trớn vùng đùi trong của đối phương thật chậm rãi khi đang nhìn thẳng vào mắt họ",
+            "hint": "Sự kết nối ánh mắt và đụng chạm",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p226",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy yêu cầu đối phương 'phạt' bạn bằng một nụ hôn thật mạnh bạo",
+            "hint": "Sự chủ động đầy quyến rũ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p227",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng tóc của bạn mơn trớn khắp mặt và cổ của đối phương",
+            "hint": "Cảm giác mềm mại và ngứa ngáy kích thích",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p228",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy cắn nhẹ vào vai đối phương và thì thầm 'Anh/Em là của tôi'",
+            "hint": "Sự chiếm hữu đầy nồng cháy",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p229",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng ngón tay vẽ những vòng tròn nhỏ xung quanh rốn của đối phương",
+            "hint": "Kích thích vùng bụng đầy nhạy cảm",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p230",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy để đối phương nhỏ một vài giọt sáp nến (loại chuyên dụng) lên vùng bạn muốn",
+            "hint": "Trải nghiệm cảm giác nóng bỏng an toàn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p231",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy thực hiện màn 'múa cột' giả định quanh đối phương trong 2 phút",
+            "hint": "Sự uyển chuyển và quyến rũ",
+            "estimated_minutes": 2
+        },
+        {
+            "id": "p232",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng một chiếc khăn lụa bịt mắt mình lại và để đối phương dẫn dắt bàn tay bạn khám phá họ",
+            "hint": "Sự tò mò và tin tưởng",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "p233",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy hôn dọc theo đường bikini của đối phương nhưng không được chạm vào trung tâm",
+            "hint": "Sự trêu đùa đầy kịch tính",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "p234",
+            "type": "action",
+            "level": "spicy",
+            "content": "Hãy yêu cầu đối phương mô tả một tư thế họ muốn thử nhất ngay bây giờ",
+            "hint": "Mở đầu cho những khám phá mới",
+            "estimated_minutes": 3
+        },
+        {
+            "id": "p235",
+            "type": "action",
+            "level": "spicy",
+            "content": "Dùng lưỡi liếm và mút nhẹ thùy tai của đối phương",
+            "hint": "Một vùng nhạy cảm thường bị bỏ qua",
+            "estimated_minutes": 2
+        }
+    ]
+}

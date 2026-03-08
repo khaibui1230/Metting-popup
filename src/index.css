@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pastel-pink: #FCE4EC;
+  --pastel-pink-deep: #F8BBD0;
+  --pastel-cream: #FFF9E3;
+  --pastel-lavender: #F3E5F5;
+}
+
+body {
+  background-color: var(--pastel-cream);
+  min-height: 100vh;
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.card-container {
+  @apply relative perspective-1000 cursor-pointer;
+  aspect-ratio: 2 / 3;
+}
+
+.card-inner {
+  @apply relative w-full h-full duration-500 transition-transform;
+  transform-style: preserve-3d;
+}
+
+.card-inner.is-flipped {
+  @apply rotate-y-180;
+}
+
+.card-face {
+  @apply absolute inset-0 w-full h-full rounded-xl flex items-center justify-center backface-hidden shadow-md border-2 border-white;
+}
+
+.card-front {
+  @apply bg-white rotate-y-180 flex flex-col p-4 text-center;
+}
+
+.card-back {
+  @apply bg-pastel-pink-deep bg-opacity-80;
+}
+
+.card-back::after {
+  content: '❤️';
+  font-size: 2rem;
+  opacity: 0.5;
+}
+
+/* Glassmorphism for popups */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
