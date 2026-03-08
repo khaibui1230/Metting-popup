@@ -13,6 +13,7 @@ const MODES = [
   { id: 'spicy', icon: Flame, label: 'Spicy 18+', description: 'Tăng nhiệt cho mối quan hệ với các thử thách táo bạo.' },
   { id: 'instant-spicy', icon: Zap, label: 'Spicy Secret', description: 'Bốc thẻ nào - Làm ngay việc đó (Chỉ dành cho 18+).' },
   { id: 'spicy-duo', icon: Heart, label: 'Spicy Duo', description: 'Thử thách bắt buộc cho cả hai người (18+).' },
+  { id: 'deep-talk', icon: Music, label: 'Deep Talk', description: '50 câu hỏi chữa lành và thấu hiểu dành cho cặp đôi.' },
 ];
 
 const DIFFICULTIES = [
@@ -54,8 +55,17 @@ export default function App() {
       levelFilter = ['solo', 'icebreaker', 'medium', 'deep']; 
     }
 
+    // Handle Deep Talk Mode
+    if (mode.id === 'deep-talk') {
+      pairsCount = difficulty.pairs;
+      levelFilter = ['deep-connection'];
+    }
+
     // Select random prompts based on difficulty and mode
     const filtered = database.prompts.filter(p => {
+      if (mode.id === 'deep-talk') {
+        return p.level === 'deep-connection';
+      }
       if (mode.id === 'spicy' || mode.id === 'instant-spicy' || mode.id === 'spicy-duo') {
         if (mode.id === 'spicy-duo') return p.level === 'spicy-duo';
         return p.level === 'spicy';

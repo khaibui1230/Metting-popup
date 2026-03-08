@@ -2271,6 +2271,806 @@
             "content": "Dùng lưỡi liếm và mút nhẹ thùy tai của đối phương",
             "hint": "Một vùng nhạy cảm thường bị bỏ qua",
             "estimated_minutes": 2
+        },
+        {
+            "id": "dt001",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì ở em/anh khiến anh/em cảm thấy an tâm nhất khi đối mặt với khó khăn?",
+            "hint": "Nghĩ về một tình huống cụ thể",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt002",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu có một ngày chúng ta không còn hiểu nhau, em/anh muốn anh/em làm gì đầu tiên?",
+            "hint": "Cách để kết nối lại",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt003",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Một tổn thương trong quá khứ nào mà em/anh cảm thấy đã được chữa lành kể từ khi bên anh/em?",
+            "hint": "Sự xoa dịu từ tình yêu",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt004",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em sợ nhất điều gì sẽ xảy ra với mối quan hệ của chúng ta trong 5 năm tới?",
+            "hint": "Thành thật về nỗi lo tương lai",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt005",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Lần cuối cùng anh/em làm em/anh buồn mà anh/em không hề hay biết là khi nào?",
+            "hint": "Cơ hội để giải bày",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt006",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì anh/em làm khiến em/anh cảm thấy mình được trân trọng và yêu thương nhất?",
+            "hint": "Những hành động nhỏ nhặt hàng ngày",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt007",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Chúng ta có đang bỏ lỡ điều gì quan trọng trong cuộc sống của nhau không?",
+            "hint": "Công việc, bạn bè hay ước mơ cá nhân",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt008",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu phải chọn một kỷ niệm duy nhất về chúng ta để giữ lại mãi mãi, đó là gì?",
+            "hint": "Khoảnh khắc đáng giá nhất",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt009",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ mình cần thay đổi điều gì để trở thành một người đồng hành tốt hơn cho em/anh?",
+            "hint": "Sự tự nhìn nhận bản thân",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt010",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có điều gì em/anh đang giấu kín vì sợ anh/em sẽ đánh giá hoặc lo lắng không?",
+            "hint": "Không gian an toàn để chia sẻ",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt011",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Định nghĩa về 'nhà' của em/anh đã thay đổi thế nào từ khi có anh/em?",
+            "hint": "Cảm giác thuộc về",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt012",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu chúng ta gặp nhau ở một thời điểm khác, liệu chúng ta có yêu nhau không?",
+            "hint": "Về duyên số và thời điểm",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt013",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì ở đối phương mà em/anh muốn con cái chúng ta sau này sẽ thừa hưởng?",
+            "hint": "Phẩm chất tốt đẹp nhất",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt014",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Lần cãi vã nào khiến em/anh cảm thấy lo sợ nhất cho mối quan hệ của mình?",
+            "hint": "Bài học rút ra từ đó",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt015",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy em/anh đang yêu anh/em đúng cách mà anh/em mong muốn không?",
+            "hint": "Ngôn ngữ tình yêu",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt016",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến em/anh tự hào nhất về hành trình chúng ta đã đi cùng nhau?",
+            "hint": "Sự trưởng thành của cả hai",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt017",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu một ngày anh/em không còn ở đây, em/anh muốn ghi nhớ điều gì nhất về anh/em?",
+            "hint": "Sự hiện diện trong tâm trí",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt018",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ em/anh cảm thấy cô đơn ngay cả khi đang ở bên cạnh anh/em không?",
+            "hint": "Sự kết nối tâm hồn",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt019",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Sự hy sinh lớn nhất mà em/anh từng thực hiện cho mối quan hệ này là gì?",
+            "hint": "Sự ghi nhận công lao",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt020",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Làm thế nào để chúng ta có thể già đi cùng nhau mà vẫn giữ được ngọn lửa tình yêu?",
+            "hint": "Tầm nhìn dài hạn",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt021",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì ở bản thân mà em/anh chỉ dám bộc lộ khi có anh/em ở bên?",
+            "hint": "Sự tin tưởng tuyệt đối",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt022",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu được quay lại quá khứ, em/anh có muốn thay đổi điều gì trong cách chúng ta bắt đầu không?",
+            "hint": "Sự hối tiếc hoặc trân trọng",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt023",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy mình được tự do là chính mình trong mối quan hệ này không?",
+            "hint": "Không gian cá nhân và sự tôn trọng",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt024",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến em/anh cảm thấy chúng ta là một đội (team) thực thụ?",
+            "hint": "Sự đồng lòng",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt025",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Một thói quen xấu nào của em/anh mà anh/em đã bao dung và chấp nhận bấy lâu nay?",
+            "hint": "Sự biết ơn",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt026",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu ngày mai chúng ta mất hết tất cả tiền bạc, liệu chúng ta có vẫn hạnh phúc không?",
+            "hint": "Giá trị cốt lõi",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt027",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ điều gì là rào cản lớn nhất ngăn cách chúng ta hiểu nhau sâu sắc hơn?",
+            "hint": "Sự giao tiếp",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt028",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Em/Anh muốn được anh/em hỗ trợ thế nào khi em/anh cảm thấy thất bại trong cuộc sống?",
+            "hint": "Sự an ủi đúng cách",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt029",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có điều gì về gia đình của anh/em mà em/anh vẫn chưa thực sự hiểu hoặc cảm thấy khó khăn để thích nghi không?",
+            "hint": "Các mối quan hệ xung quanh",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt030",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Lần cuối cùng em/anh cảm thấy thực sự biết ơn vì có anh/em trong đời là khi nào?",
+            "hint": "Khoảnh khắc xúc động",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt031",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Chúng ta có đang vô tình làm tổn thương nhau bằng những điều nhỏ nhặt hàng ngày không?",
+            "hint": "Sự nhạy cảm trong giao tiếp",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt032",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy gánh nặng nào khi ở trong mối quan hệ này không?",
+            "hint": "Sự chia sẻ trách nhiệm",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt033",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến em/anh tin rằng chúng ta sinh ra là dành cho nhau?",
+            "hint": "Niềm tin vào tình yêu",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt034",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu em/anh thay đổi hoàn toàn về ngoại hình, anh/em có vẫn yêu em/anh như bây giờ không?",
+            "hint": "Tình yêu vượt lên trên vẻ ngoài",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt035",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em muốn chúng ta cùng nhau thực hiện ước mơ lớn lao nào nhất trong đời?",
+            "hint": "Mục tiêu chung",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt036",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ em/anh cảm thấy mình phải thay đổi bản thân để vừa ý anh/em không?",
+            "hint": "Sự chân thật trong tình yêu",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt037",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì ở cách anh/em yêu khiến em/anh cảm thấy mình đặc biệt nhất?",
+            "hint": "Sự duy nhất",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt038",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu chúng ta có một ngày cuối cùng bên nhau, em/anh muốn chúng ta làm gì?",
+            "hint": "Sự ưu tiên cuối cùng",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt039",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy mình được lắng nghe mỗi khi chúng ta trò chuyện không?",
+            "hint": "Chất lượng cuộc hội thoại",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt040",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Làm sao để em/anh có thể tin tưởng anh/em nhiều hơn nữa?",
+            "hint": "Xây dựng niềm tin",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt041",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì là thử thách lớn nhất mà chúng ta đã cùng nhau vượt qua thành công?",
+            "hint": "Sức mạnh của sự đoàn kết",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt042",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có bao giờ so sánh mối quan hệ của chúng ta với những người khác không?",
+            "hint": "Sự hài lòng thực tại",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt043",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Em/Anh thấy mình có điểm gì giống và khác bố mẹ mình trong cách yêu?",
+            "hint": "Sự ảnh hưởng từ gia đình",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt044",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu anh/em có thể tặng em/anh một món quà tinh thần ngay lúc này, em/anh muốn nhận gì?",
+            "hint": "Nhu cầu tâm hồn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt045",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến em/anh cảm thấy mình là phiên bản tốt nhất của chính mình khi ở bên anh/em?",
+            "hint": "Sự truyền cảm hứng",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt046",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có lời xin lỗi nào em/anh muốn nói với anh/em nhưng chưa có dịp không?",
+            "hint": "Sự hòa giải",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt047",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ chúng ta cần làm gì để không bao giờ trở nên xa lạ với nhau?",
+            "hint": "Duy trì sự kết nối",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt048",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu em/anh được chọn một ngày để sống lại mãi mãi với anh/em, đó là ngày nào?",
+            "hint": "Ngày hạnh phúc nhất",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt049",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy em/anh là người bạn thân nhất của mình không?",
+            "hint": "Tình bạn trong tình yêu",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt050",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Lời hứa nào về tương lai mà em/anh muốn chúng ta cùng thực hiện bằng mọi giá?",
+            "hint": "Sự cam kết cuối cùng",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt051",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì ở bản thân anh/em mà em/anh thấy khó hiểu nhất?",
+            "hint": "Tìm kiếm sự thấu hiểu sâu hơn",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt052",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu chúng ta có thể thay đổi một quy tắc trong mối quan hệ của mình, đó sẽ là gì?",
+            "hint": "Cải thiện sự thoải mái",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt053",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em cảm thấy thế nào về cách chúng ta giải quyết mâu thuẫn gần đây?",
+            "hint": "Đánh giá sự giao tiếp",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt054",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ anh/em cảm thấy em/anh đang ưu tiên người khác hơn anh/em không?",
+            "hint": "Về sự ưu tiên",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt055",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì là thành tựu lớn nhất mà chúng ta đã đạt được với tư cách là một cặp đôi?",
+            "hint": "Nhìn lại những gì đã qua",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt056",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy mình được đánh giá cao vì những nỗ lực thầm lặng trong mối quan hệ này không?",
+            "hint": "Sự công nhận",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt057",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu anh/em có thể quay lại và nói một điều với chính mình vào ngày đầu tiên chúng ta gặp nhau, đó sẽ là gì?",
+            "hint": "Lời khuyên từ tương lai",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt058",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Em/Anh nghĩ điều gì là 'điểm chạm' cảm xúc mạnh mẽ nhất giữa hai ta?",
+            "hint": "Sự kết nối tinh thần",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt059",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Chúng ta có đang thực sự hỗ trợ nhau đạt được những mục tiêu cá nhân không?",
+            "hint": "Về sự phát triển cá nhân",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt060",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có bao giờ cảm thấy mình phải kìm nén cảm xúc để giữ hòa khí không?",
+            "hint": "Sự thành thật cảm xúc",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt061",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến anh/em cảm thấy chúng ta khác biệt với tất cả những cặp đôi khác?",
+            "hint": "Sự độc bản",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt062",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu chúng ta phải xa nhau một thời gian dài, anh/em nghĩ điều gì sẽ giúp chúng ta duy trì tình yêu?",
+            "hint": "Sự kiên định",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt063",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có khía cạnh nào trong cuộc sống của em/anh mà anh/em cảm thấy mình vẫn là người lạ không?",
+            "hint": "Xóa bỏ rào cản",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt064",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ chúng ta đã học được gì từ lần cãi vã lớn nhất của mình?",
+            "hint": "Sự trưởng thành sau biến cố",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt065",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Làm thế nào để em/anh có thể làm cho anh/em cảm thấy an toàn hơn trong mối quan hệ này?",
+            "hint": "Xây dựng sự an tâm",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt066",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì là nỗi sợ lớn nhất của anh/em về việc chúng ta sẽ thay đổi khi về già?",
+            "hint": "Sự chấp nhận thời gian",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt067",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ anh/em nghi ngờ về quyết định yêu em/anh không? (Hãy thành thật)",
+            "hint": "Sự đối diện sự thật",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt068",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Em/Anh nghĩ chúng ta nên làm gì để duy trì sự lãng mạn sau nhiều năm nữa?",
+            "hint": "Giữ lửa tình yêu",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt069",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em thấy mình giống em/anh nhất ở điểm nào?",
+            "hint": "Sự đồng điệu",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "dt070",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu một người bạn thân nói xấu về em/anh, anh/em sẽ phản ứng thế nào?",
+            "hint": "Sự bảo vệ đối phương",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt071",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì ở em/anh khiến anh/em cảm thấy mình là người may mắn nhất thế giới?",
+            "hint": "Sự trân trọng",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt072",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Chúng ta có đang chi tiêu tiền bạc theo cách mà cả hai đều cảm thấy thoải mái không?",
+            "hint": "Về tài chính chung",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt073",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ con cái chúng ta sau này sẽ nói gì về tình yêu của bố mẹ chúng?",
+            "hint": "Di sản tình yêu",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt074",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có điều gì em/anh làm thường xuyên mà thực ra anh/em không thích nhưng chưa nói?",
+            "hint": "Sự góp ý chân thành",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt075",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu ngày mai là ngày cuối cùng chúng ta có thể nghe thấy giọng nói của nhau, anh/em muốn nói gì?",
+            "hint": "Lời nhắn nhủ cuối cùng",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt076",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ chúng ta đã thay đổi thế nào kể từ khi bắt đầu chung sống?",
+            "hint": "Sự thích nghi",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt077",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến anh/em cảm thấy tự hào nhất về em/anh trong tháng vừa qua?",
+            "hint": "Sự quan tâm hiện tại",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt078",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Chúng ta có nên dành nhiều thời gian hơn cho bạn bè riêng của mỗi người không?",
+            "hint": "Sự cân bằng xã hội",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt079",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em cảm thấy thế nào khi chúng ta im lặng bên cạnh nhau?",
+            "hint": "Sự thoải mái trong im lặng",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt080",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu anh/em có thể thay đổi một sự kiện trong quá khứ của hai ta, đó sẽ là gì?",
+            "hint": "Về những tiếc nuối",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt081",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến anh/em cảm thấy mình được là chính mình nhất khi ở bên em/anh?",
+            "hint": "Sự tự do cá nhân",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt082",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ anh/em cảm thấy em/anh đang quá kiểm soát cuộc sống của anh/em không?",
+            "hint": "Về ranh giới cá nhân",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt083",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ điều gì là nền tảng vững chắc nhất giữ cho mối quan hệ của chúng ta tồn tại?",
+            "hint": "Giá trị cốt lõi",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt084",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu em/anh gặp khó khăn lớn về sức khỏe, anh/em nghĩ mình sẽ đồng hành cùng em/anh thế nào?",
+            "hint": "Sự cam kết vô điều kiện",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt085",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì anh/em mong đợi nhất khi chúng ta cùng nhau thức dậy vào mỗi buổi sáng?",
+            "hint": "Niềm vui hàng ngày",
+            "estimated_minutes": 4
+        },
+        {
+            "id": "dt086",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ anh/em cảm thấy ghen tị với thành công của em/anh không?",
+            "hint": "Sự thành thật về cảm xúc tiêu cực",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt087",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Làm thế nào để chúng ta có thể làm cho các chuyến du lịch cùng nhau trở nên ý nghĩa hơn?",
+            "hint": "Xây dựng trải nghiệm chung",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt088",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ điều gì là sai lầm lớn nhất mà em/anh đã mắc phải trong tình yêu này?",
+            "hint": "Sự tha thứ và học hỏi",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt089",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu chúng ta có thể sống ở bất kỳ đâu trên thế giới, anh/em muốn cùng em/anh đến đâu?",
+            "hint": "Về không gian sống mơ ước",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt090",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến anh/em tin rằng tình yêu của chúng ta sẽ bền vững mãi mãi?",
+            "hint": "Niềm tin tuyệt đối",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt091",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em có cảm thấy chúng ta đang giao tiếp đủ về những nhu cầu tình dục của mình không?",
+            "hint": "Sự hòa hợp thể xác",
+            "estimated_minutes": 8
+        },
+        {
+            "id": "dt092",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có điều gì về tuổi thơ của anh/em mà anh/em nghĩ đã ảnh hưởng lớn đến cách anh/em yêu bây giờ?",
+            "hint": "Về quá khứ xa xôi",
+            "estimated_minutes": 10
+        },
+        {
+            "id": "dt093",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì là lời khen quý giá nhất mà anh/em từng nhận được từ em/anh?",
+            "hint": "Sức mạnh của lời nói",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt094",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Chúng ta có nên thiết lập một ngày 'không điện thoại' hàng tuần để dành cho nhau không?",
+            "hint": "Chất lượng thời gian",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt095",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ em/anh sẽ là một người cha/mẹ như thế nào trong tương lai?",
+            "hint": "Tầm nhìn gia đình",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt096",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Có bao giờ anh/em cảm thấy mình bị áp lực phải trở thành hình mẫu lý tưởng trong mắt em/anh không?",
+            "hint": "Sự kỳ vọng",
+            "estimated_minutes": 9
+        },
+        {
+            "id": "dt097",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Điều gì khiến anh/em cảm thấy mình được bảo vệ nhất khi ở bên em/anh?",
+            "hint": "Sự an toàn",
+            "estimated_minutes": 5
+        },
+        {
+            "id": "dt098",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Nếu chúng ta cãi nhau trước mặt người khác, anh/em muốn em/anh xử lý thế nào?",
+            "hint": "Sự tôn trọng nơi công cộng",
+            "estimated_minutes": 7
+        },
+        {
+            "id": "dt099",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Anh/Em nghĩ điều gì là điều điên rồ nhất mà chúng ta nên làm cùng nhau một lần trong đời?",
+            "hint": "Sự phiêu lưu",
+            "estimated_minutes": 6
+        },
+        {
+            "id": "dt100",
+            "type": "question",
+            "level": "deep-connection",
+            "content": "Sau tất cả, tại sao anh/em vẫn chọn em/anh để đi cùng đến cuối con đường?",
+            "hint": "Lời khẳng định tình yêu",
+            "estimated_minutes": 15
         }
     ]
 }
