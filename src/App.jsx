@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import Board from './components/Board';
 import DiscussionPopup from './components/DiscussionPopup';
-import { Heart, Trophy, RefreshCw, ChevronRight, Info, Play, User, Users, CalendarHeart, Flame, Zap, Briefcase, UserPlus, ArrowLeft } from 'lucide-react';
+import { Heart, Trophy, RefreshCw, ChevronRight, Info, Play, User, Users, CalendarHeart, Flame, Zap, Briefcase, UserPlus, ArrowLeft, Music } from 'lucide-react';
 import database from './database.json';
 import { motion, AnimatePresence } from 'framer-motion';
 import confetti from 'canvas-confetti';
