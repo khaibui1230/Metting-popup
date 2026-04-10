@@ -45,17 +45,15 @@ body {
 }
 
 .card-front {
-  @apply bg-white rotate-y-180 flex flex-col p-4 text-center;
+  @apply bg-white flex flex-col p-4 text-center z-20;
 }
 
 .card-back {
-  @apply bg-pastel-pink-deep bg-opacity-80;
+  @apply rotate-y-180 flex flex-col z-10;
 }
 
 .card-back::after {
-  content: '❤️';
-  font-size: 2rem;
-  opacity: 0.5;
+  display: none;
 }
 
 /* Glassmorphism for popups */
